@@ -1,6 +1,6 @@
 ![3f5ecab12559d2eb56106fb1189a3d6a](https://github.com/b3rg3n/b3rg3n/assets/124900745/a452ea6b-d714-4904-bf63-3fbaf3e3824b)
 <h1 align="center">Что ты ожидаешь тут увидеть?</h1>
-<h3 align="center">Это профиль человека, что занимается визуальными новеллами на движке RenPy, а именно делает:
+<h3 align="center">Это профиль человека, что занимается визуальными новеллами на движке RenPy. Пилит:
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9F%D0%BE%D1%80%D1%82%D1%8B)](https://git.io/typing-svg)
