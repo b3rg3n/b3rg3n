@@ -1,4 +1,4 @@
-![3f5ecab12559d2eb56106fb1189a3d6a](https://github.com/b3rg3n/b3rg3n/assets/124900745/474c4a6b-d3eb-4e94-98df-c40cc57b5fa1)
+![3f5ecab12559d2eb56106fb1189a3d6a](https://github.com/b3rg3n/b3rg3n/assets/124900745/a452ea6b-d714-4904-bf63-3fbaf3e3824b)
 <h1 align="center">Что ты ожидаешь тут увидеть?</h1>
 <h3 align="center">Это профиль человека, что занимается визуальными новеллами на движке RenPy, а именно делает:
 </h3>
