@@ -10,3 +10,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9F%D1%80%D0%B0%D0%B2%D0%BA%D0%B8)](https://github.com/b3rg3n?tab=repositories)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%98+%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%B5+%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B5)](https://github.com/b3rg3n?tab=repositories)
+
+<h4 align="center">Игры серии SR: (ссылки кликабельные)</h4>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Skitetsky+REMASTER)](https://github.com/b3rg3n/Skitetsky-REMASTER/releases)
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ANDATRA+DIARY)](https://github.com/b3rg3n/Andatra-Diary/releases)
+
+<h4 align="center">Остальные шедевры: (ссылки кликабельные)</h4>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=TRUE+STORY)](https://github.com/b3rg3n/True-Story/releases)
