@@ -1,5 +1,4 @@
-# Смотри какой я пиздатый
-![dem_66ae58367c9b7](https://github.com/user-attachments/assets/eefcbe63-6ac4-463a-acd3-67666fafae2a)
+![Безымянный](https://github.com/user-attachments/assets/cde84ee4-5cc8-4cce-9d7b-bd204dbeb1e0)
 
 # Work with:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%ff9c00) ![CSS](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%3745ff)<br>
