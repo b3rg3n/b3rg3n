@@ -1,5 +1,3 @@
-<h1 align="center" id="macropower-title">About</h1>
-
 ## Langs
 
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=512BD4&logo=sharp&logoColor=FFFFFF&label=)
