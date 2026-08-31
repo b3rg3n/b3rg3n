@@ -10,7 +10,7 @@
 ## 🔧 Technologies
 ![ASP.NET Core](https://img.shields.io/static/v1?style=for-the-badge&message=ASP.NET+Core&color=161238&logo=.NET&logoColor=FFFFFF&label=)
 ![Entity Framework Core](https://img.shields.io/static/v1?style=for-the-badge&message=Entity+Framework+Core&color=28398d&logo=.NET&logoColor=FFFFFF&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=react&color=28398d&logo=.NET&logoColor=61DAFB&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=react&color=28398d&logo=react&logoColor=61DAFB&label=)
 
 ## 💻 IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
