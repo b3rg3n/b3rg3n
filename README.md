@@ -1,30 +1,21 @@
-<h1 align="center" id="macropower-title">:wave:  Здарова, агалые!</h1>
-
-## 🎛️ Operating System
-![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows+XP&logoColor=FFFFFF&label=)
+<h1 align="center" id="macropower-title">About</h1>
 
 ## Langs
+![C#](https://img.shields.io/static/v1?style=for-the-badge&message=csharp&color=161238&logo=csharp&logoColor=378BBA&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=php&color=161238&logo=php&logoColor=777BB4&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=python&color=161238&logo=python&logoColor=3776AB&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=161238&logo=javascript&logoColor=F7DF1E&label=)
 
-
-
-## 🔧 Technologies
+## Web
 ![ASP.NET Core](https://img.shields.io/static/v1?style=for-the-badge&message=ASP.NET+Core&color=161238&logo=.NET&logoColor=FFFFFF&label=)
-![Entity Framework Core](https://img.shields.io/static/v1?style=for-the-badge&message=Entity+Framework+Core&color=28398d&logo=.NET&logoColor=FFFFFF&label=)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=laravel&color=28398d&logo=laravel&logoColor=FF2D20&label=)
+![Django](https://img.shields.io/static/v1?style=for-the-badge&message=django&color=28398d&logo=django&logoColor=092E20&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=react&color=28398d&logo=react&logoColor=61DAFB&label=)
 
-## 💻 IDEs/Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Game Engines
+![RenPy](https://img.shields.io/static/v1?style=for-the-badge&message=renpy&color=28398d&logo=renpy&logoColor=FF7F7F&label=)
 
-## 💾 Databases
+## Other
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## 🥅 Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-## 🕓 Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
