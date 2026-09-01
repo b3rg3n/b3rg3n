@@ -12,10 +12,6 @@
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=django&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=20232A&logo=react&logoColor=61DAFB&label=)
 
-## Game Engines
-
-![Ren'Py](https://img.shields.io/static/v1?style=for-the-badge&message=Ren%27Py&color=1F1F2E&logo=renpy&logoColor=FF7F7F&label=)
-
 ## Other
 
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF&label=)
